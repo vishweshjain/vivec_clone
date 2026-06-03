@@ -60,8 +60,6 @@ VIVEC/
 ├── index.html
 ├── style.css
 ├── script.js
-│
-├── media/
 ```
 
 ---
