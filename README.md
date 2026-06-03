@@ -19,7 +19,7 @@ A modern, responsive, and visually engaging educational website built to showcas
 🔗 Add your deployed website link here
 
 ```text
-https://vivecclone.netlify.app/
+https://vivec-clone.netlify.app/
 ```
 
 ---
